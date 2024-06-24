@@ -1,0 +1,27 @@
+
+.custom-navbar {
+    background-color: #f8f9fa; 
+    padding: 10px; 
+    border-bottom: 2px solid #dee2e6; 
+  }
+  
+  
+  .custom-navbar .nav-link {
+    color: #495057; 
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size: 16px; 
+    font-weight: 500; 
+  }
+  
+  .custom-navbar .nav-link:hover {
+    color: #0056b3; 
+    background-color: #e9ecef; 
+    text-decoration: none; 
+  }
+  
+  
+  .custom-navbar .nav-link.active {
+    color: #007bff; 
+    font-weight: 600; 
+  }
